@@ -23,3 +23,5 @@ print("Hello World updates on GitHub")
 print("Hello World changes Local")
 
 print("Hello World second updates on GitHub only")
+
+print("Print the name of each member")
