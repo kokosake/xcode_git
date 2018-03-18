@@ -27,3 +27,5 @@ print("Hello World second updates on GitHub only")
 print("Print the name of each member")
 
 print("Min-Chul Song")
+
+print("Min-Kyu Lee")
